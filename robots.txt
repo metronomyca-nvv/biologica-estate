@@ -1,4 +1,2 @@
 User-agent: *
 Disallow: /
-
-Sitemap: https://metronomyca-nvv.github.io/biologica-estate/sitemap.xml
